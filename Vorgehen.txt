@@ -1,0 +1,34 @@
+1. Trainingsdaten laden.
+
+2. Daten aufbereiten:
+	-Umwandeln der kategorischen- in numerische Werte (Dummyvariablen)
+	-Filtern redundanter Dummyvariablen
+	-Umwandeln falscher Datentypen
+
+-----------------------------------------------------------------------
+3. Korrelationen zwischen Targetvariablen und den einzelnen Features sichtbar machen (Heatmap).
+
+4. Aufsplitten des Trainingssets in X (Features) und y (target).
+
+5. Hyperparameter-Tuning mit GridSearchCV für Logistic Regression.
+
+6. KNeighbours-Classifier anlegen und an Trainingsdaten anpassen.
+
+7. Hyperparameter-Tuning mit GridSearchCV für KNeighbours.
+
+8. Logistic Regression-Classifier anlegen und an Trainingsdaten anpassen.
+
+9. Hyperparameter-Tuning mit GridSearchCV für DecisionTree.
+
+10. DecisionTree-Classifier anlegen und an Trainingsdaten anpassen.
+
+-----------------------------------------------------------------------
+12. Testdaten laden und bereinigen.
+
+13. Die drei verschiedenen Modelle darauf anwenden und y bestimmen.
+
+14. Akkuratesse per Score messen.
+
+15. Beantwortung der Kernfrage.
+
+16. Ergebnis analysieren.
